@@ -99,5 +99,3 @@ These figures describe **police-reported cybercrime**, not every cybercrime that
 ## Slide 35 activity and presentation
 
 The notebook adapts the food-price activity to cybercrime, covering distributions, normality testing, mean comparisons, and p-value interpretation. It contains a 100-word normality interpretation, 50-word F-test and t-score summaries, and a 100-word p-value reflection.
-
-The slide-35 table mentions Z-scores, but the current notebook does **not** calculate them or include the requested 100-word Z-score interpretation. Min–Max normalization is also not implemented.
